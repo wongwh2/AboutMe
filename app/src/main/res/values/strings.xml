@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Chin Ting Wei</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Chin Ting Wei.
+    \nMy friends call me Ting Wei, Kuro, or Kevin, whichever suits their needs.
+    \n\nI am very interested in tech,
+    \nin fact, I would dedicate most of my time watching Youtube videos about what is currently new in the tech world.
+    \n\nMy interest would go from phones, laptops, PC builds, processor analysis, to funny tech videos.
+    \n\nWhen I\'m eating or doing work, I would binge watching review videos,
+    \nBasically watching people talk about their experience using their devices.
+    \n\nI would love to share my knowledge with my friends if they are interested,
+    \nif they are not interested then I won\'t force them to listen to me brag about it.\n</string>
+    <string name="myface">MyFace</string>
+
+</resources>
